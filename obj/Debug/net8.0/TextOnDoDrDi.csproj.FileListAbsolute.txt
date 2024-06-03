@@ -1,0 +1,14 @@
+c:\Users\DELL\source\OgunFold\TextOnDoDrDi\bin\Debug\net8.0\TextOnDoDrDi.exe
+c:\Users\DELL\source\OgunFold\TextOnDoDrDi\bin\Debug\net8.0\TextOnDoDrDi.deps.json
+c:\Users\DELL\source\OgunFold\TextOnDoDrDi\bin\Debug\net8.0\TextOnDoDrDi.runtimeconfig.json
+c:\Users\DELL\source\OgunFold\TextOnDoDrDi\bin\Debug\net8.0\TextOnDoDrDi.dll
+c:\Users\DELL\source\OgunFold\TextOnDoDrDi\bin\Debug\net8.0\TextOnDoDrDi.pdb
+c:\Users\DELL\source\OgunFold\TextOnDoDrDi\obj\Debug\net8.0\TextOnDoDrDi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DELL\source\OgunFold\TextOnDoDrDi\obj\Debug\net8.0\TextOnDoDrDi.AssemblyInfoInputs.cache
+c:\Users\DELL\source\OgunFold\TextOnDoDrDi\obj\Debug\net8.0\TextOnDoDrDi.AssemblyInfo.cs
+c:\Users\DELL\source\OgunFold\TextOnDoDrDi\obj\Debug\net8.0\TextOnDoDrDi.csproj.CoreCompileInputs.cache
+c:\Users\DELL\source\OgunFold\TextOnDoDrDi\obj\Debug\net8.0\TextOnDoDrDi.dll
+c:\Users\DELL\source\OgunFold\TextOnDoDrDi\obj\Debug\net8.0\refint\TextOnDoDrDi.dll
+c:\Users\DELL\source\OgunFold\TextOnDoDrDi\obj\Debug\net8.0\TextOnDoDrDi.pdb
+c:\Users\DELL\source\OgunFold\TextOnDoDrDi\obj\Debug\net8.0\TextOnDoDrDi.genruntimeconfig.cache
+c:\Users\DELL\source\OgunFold\TextOnDoDrDi\obj\Debug\net8.0\ref\TextOnDoDrDi.dll
